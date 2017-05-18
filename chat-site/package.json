@@ -1,0 +1,15 @@
+{
+  "name": "chat-site",
+  "version": "1.0.0",
+  "description": "Testing socket programming",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frederik Gunner Pedersen",
+  "license": "ISC",
+  "dependencies":{
+    "socket.io":"*",
+    "express":"*"
+  }
+}
